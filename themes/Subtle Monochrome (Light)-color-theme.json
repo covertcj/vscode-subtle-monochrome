@@ -1,0 +1,58 @@
+{
+    "name": "Subtle Monochrome (Light)",
+    "type": "light",
+    "colors": {
+        "foreground": "#333",
+        "editor.foreground": "#333",
+        "editor.background": "#eee",
+        "errorForeground": "#a33",
+
+        "editorLineNumber.activeForeground": "#333",
+        "editorLineNumber.foreground": "#919191",
+
+        "tab.border": "#ccc",
+        "tab.inactiveBackground": "#eee",
+        "tab.inactiveForeground": "#919191",
+        "tab.activeBackground": "#ddd",
+        "tab.activeForeground": "#333",
+        "editorGroupHeader.tabsBackground": "#eee",
+        "editorGroupHeader.tabsBorder": "#ccc",
+
+        "sideBar.background": "#eee",
+        "sideBar.border": "#ccc",
+
+        "button.background": "#333",
+        "button.foreground": "#eee",
+        "button.hoverBackground": "#555",
+
+        "list.activeSelectionForeground": "#ccc",
+        "list.activeSelectionBackground": "#333",
+        "list.inactiveSelectionForeground": "#ccc",
+        "list.inactiveSelectionBackground": "#333",
+        "list.hoverBackground": "#ddd",
+        "list.hoverForeground": "#333",
+        "list.dropBackground": "#ddd"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": [
+                "comment",
+				"punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#919191"
+            }
+        },
+        {
+            "name": "Strings",
+            "scope": [
+                "string.quoted.double",
+                "string.quoted.single"
+            ],
+            "settings": {
+                "foreground": "#919191"
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Subtle Monochrome (Dark)",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#333",
+        "editor.foreground": "#eee"
+    },
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": [
+                "comment",
+				"punctuation.definition.comment"
+            ],
+            "settings": {
+                "foreground": "#919191"
+            }
+        }
+    ]
+}
