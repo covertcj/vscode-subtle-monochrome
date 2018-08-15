@@ -2,35 +2,35 @@
     "name": "Subtle Monochrome (Light)",
     "type": "light",
     "colors": {
-        "foreground": "#333",
-        "editor.foreground": "#333",
-        "editor.background": "#eee",
-        "errorForeground": "#a33",
+        "foreground": "#111",
+        "editor.foreground": "#111",
+        "editor.background": "#fafafa",
+        "errorForeground": "#a11",
 
-        "editorLineNumber.activeForeground": "#333",
-        "editorLineNumber.foreground": "#919191",
+        "editorLineNumber.activeForeground": "#111",
+        "editorLineNumber.foreground": "#555",
 
         "tab.border": "#ccc",
         "tab.inactiveBackground": "#eee",
-        "tab.inactiveForeground": "#919191",
+        "tab.inactiveForeground": "#555",
         "tab.activeBackground": "#ddd",
-        "tab.activeForeground": "#333",
-        "editorGroupHeader.tabsBackground": "#eee",
+        "tab.activeForeground": "#111",
+        "editorGroupHeader.tabsBackground": "#fafafa",
         "editorGroupHeader.tabsBorder": "#ccc",
 
         "sideBar.background": "#eee",
         "sideBar.border": "#ccc",
 
-        "button.background": "#333",
-        "button.foreground": "#eee",
-        "button.hoverBackground": "#555",
+        "button.background": "#111",
+        "button.foreground": "#fafafa",
+        "button.hoverBackground": "#333",
 
         "list.activeSelectionForeground": "#ccc",
-        "list.activeSelectionBackground": "#333",
+        "list.activeSelectionBackground": "#111",
         "list.inactiveSelectionForeground": "#ccc",
-        "list.inactiveSelectionBackground": "#333",
+        "list.inactiveSelectionBackground": "#111",
         "list.hoverBackground": "#ddd",
-        "list.hoverForeground": "#333",
+        "list.hoverForeground": "#111",
         "list.dropBackground": "#ddd"
     },
     "tokenColors": [
@@ -41,7 +41,7 @@
 				"punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#919191"
+                "foreground": "#787"
             }
         },
         {
@@ -51,7 +51,7 @@
                 "string.quoted.single"
             ],
             "settings": {
-                "foreground": "#919191"
+                "foreground": "#551111"
             }
         }
     ]
